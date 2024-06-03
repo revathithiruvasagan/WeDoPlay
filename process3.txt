@@ -1,4 +1,0 @@
-Type Wood Marble Metal
-Coins Pebbles Nuts Glass
-Number_of_pits 12 15 16
-Shape Fish Rectangle Oval
