@@ -1,0 +1,3 @@
+digraph {
+ Tshirt -> Fabric -> Pattern -> Printing -> Embroidery -> Packing -> Poly
+}
